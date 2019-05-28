@@ -1,0 +1,397 @@
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\cef.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\cef_100_percent.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\cef_200_percent.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\cef_extensions.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\chrome_elf.dll
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\d3dcompiler_47.dll
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\devtools_resources.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\icudtl.dat
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\libcef.dll
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\libEGL.dll
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\libGLESv2.dll
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\am.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\ar.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\bg.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\bn.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\ca.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\cs.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\da.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\de.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\el.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\en-GB.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\en-US.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\es-419.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\es.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\et.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\fa.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\fi.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\fil.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\fr.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\gu.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\he.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\hi.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\hr.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\hu.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\id.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\it.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\ja.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\kn.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\ko.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\lt.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\lv.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\ml.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\mr.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\ms.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\nb.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\nl.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\pl.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\pt-BR.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\pt-PT.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\ro.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\ru.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\sk.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\sl.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\sr.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\sv.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\sw.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\ta.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\te.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\th.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\tr.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\uk.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\vi.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\zh-CN.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\zh-TW.pak
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\natives_blob.bin
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\README.txt
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\snapshot_blob.bin
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\swiftshader\libEGL.dll
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\swiftshader\libGLESv2.dll
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\v8_context_snapshot.bin
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\CefSharp.BrowserSubprocess.Core.dll
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\CefSharp.BrowserSubprocess.Core.pdb
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\CefSharp.BrowserSubprocess.exe
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\CefSharp.BrowserSubprocess.pdb
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\CefSharp.Core.dll
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\CefSharp.Core.pdb
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\CefSharp.Core.xml
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\CefSharp.dll
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\CefSharp.pdb
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\CefSharp.XML
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\CefSharp.WinForms.dll
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\CefSharp.WinForms.pdb
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\CefSharp.WinForms.XML
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\AutoItX3.dll
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\AutoItX3_x64.dll
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\LOAR.Bot.exe.config
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\LOAR.Bot.exe
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\LOAR.Bot.pdb
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\AutoItX3.Assembly.dll
+H:\Coding\LOAR.Bot\LOAR.Bot\bin\x86\Debug\AutoItX3.Assembly.xml
+H:\Coding\LOAR.Bot\LOAR.Bot\obj\x86\Debug\LOAR.Bot.csprojAssemblyReference.cache
+H:\Coding\LOAR.Bot\LOAR.Bot\obj\x86\Debug\LOAR.Bot.Properties.Resources.resources
+H:\Coding\LOAR.Bot\LOAR.Bot\obj\x86\Debug\LOAR.Bot.csproj.GenerateResource.cache
+H:\Coding\LOAR.Bot\LOAR.Bot\obj\x86\Debug\LOAR.Bot.csproj.CoreCompileInputs.cache
+H:\Coding\LOAR.Bot\LOAR.Bot\obj\x86\Debug\LOAR.Bot.csproj.CopyComplete
+H:\Coding\LOAR.Bot\LOAR.Bot\obj\x86\Debug\LOAR.Bot.exe
+H:\Coding\LOAR.Bot\LOAR.Bot\obj\x86\Debug\LOAR.Bot.pdb
+H:\Coding\LOAR.Bot\LOAR.Bot\obj\x86\Debug\LOAR.Bot.Main_GUI.resources
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\cef.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\cef_100_percent.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\cef_200_percent.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\cef_extensions.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\chrome_elf.dll
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\d3dcompiler_47.dll
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\devtools_resources.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\icudtl.dat
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\libcef.dll
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\libEGL.dll
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\libGLESv2.dll
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\am.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\ar.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\bg.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\bn.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\ca.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\cs.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\da.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\de.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\el.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\en-GB.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\en-US.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\es-419.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\es.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\et.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\fa.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\fi.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\fil.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\fr.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\gu.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\he.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\hi.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\hr.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\hu.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\id.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\it.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\ja.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\kn.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\ko.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\lt.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\lv.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\ml.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\mr.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\ms.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\nb.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\nl.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\pl.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\pt-BR.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\pt-PT.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\ro.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\ru.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\sk.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\sl.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\sr.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\sv.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\sw.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\ta.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\te.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\th.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\tr.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\uk.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\vi.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\zh-CN.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\locales\zh-TW.pak
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\natives_blob.bin
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\README.txt
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\snapshot_blob.bin
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\swiftshader\libEGL.dll
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\swiftshader\libGLESv2.dll
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\v8_context_snapshot.bin
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\CefSharp.BrowserSubprocess.Core.dll
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\CefSharp.BrowserSubprocess.Core.pdb
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\CefSharp.BrowserSubprocess.exe
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\CefSharp.BrowserSubprocess.pdb
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\CefSharp.Core.dll
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\CefSharp.Core.pdb
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\CefSharp.Core.xml
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\CefSharp.dll
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\CefSharp.pdb
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\CefSharp.XML
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\CefSharp.WinForms.dll
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\CefSharp.WinForms.pdb
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\CefSharp.WinForms.XML
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\AutoItX3.dll
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\AutoItX3_x64.dll
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\LOAR.Bot.exe.config
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\LOAR.Bot.exe
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\LOAR.Bot.pdb
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\AutoItX3.Assembly.dll
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\bin\x86\Debug\AutoItX3.Assembly.xml
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\obj\x86\Debug\LOAR.Bot.csprojAssemblyReference.cache
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\obj\x86\Debug\LOAR.Bot.Main_GUI.resources
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\obj\x86\Debug\LOAR.Bot.Properties.Resources.resources
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\obj\x86\Debug\LOAR.Bot.csproj.GenerateResource.cache
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\obj\x86\Debug\LOAR.Bot.csproj.CoreCompileInputs.cache
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\obj\x86\Debug\LOAR.Bot.csproj.CopyComplete
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\obj\x86\Debug\LOAR.Bot.exe
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\obj\x86\Debug\LOAR.Bot.pdb
+E:\Coding\C#-Sharp Studio\LOAR.Bot\LOAR.Bot\obj\x86\Debug\LOAR.Bot.Browser.resources
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\obj\x86\Debug\LOAR.Bot.csprojAssemblyReference.cache
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\obj\x86\Debug\LOAR.Bot.Browser.resources
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\obj\x86\Debug\LOAR.Bot.Main_GUI.resources
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\obj\x86\Debug\LOAR.Bot.Properties.Resources.resources
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\obj\x86\Debug\LOAR.Bot.csproj.GenerateResource.cache
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\obj\x86\Debug\LOAR.Bot.csproj.CoreCompileInputs.cache
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\obj\x86\Debug\LOAR.Bot.exe
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\obj\x86\Debug\LOAR.Bot.pdb
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\CefSharp.Core.dll
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\CefSharp.Core.xml
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\CefSharp.dll
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\CefSharp.XML
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\CefSharp.WinForms.dll
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\CefSharp.WinForms.XML
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\AutoItX3.dll
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\AutoItX3_x64.dll
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\LOAR.Bot.exe.config
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\LOAR.Bot.exe
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\LOAR.Bot.pdb
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\AutoItX3.Assembly.dll
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\AutoItX3.Assembly.xml
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\obj\x86\Debug\LOAR.Bot.csproj.CopyComplete
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\cef.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\cef_100_percent.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\cef_200_percent.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\cef_extensions.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\chrome_elf.dll
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\d3dcompiler_47.dll
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\devtools_resources.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\icudtl.dat
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\libcef.dll
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\libEGL.dll
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\libGLESv2.dll
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\am.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\ar.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\bg.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\bn.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\ca.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\cs.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\da.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\de.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\el.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\en-GB.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\en-US.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\es-419.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\es.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\et.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\fa.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\fi.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\fil.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\fr.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\gu.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\he.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\hi.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\hr.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\hu.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\id.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\it.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\ja.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\kn.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\ko.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\lt.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\lv.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\ml.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\mr.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\ms.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\nb.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\nl.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\pl.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\pt-BR.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\pt-PT.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\ro.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\ru.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\sk.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\sl.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\sr.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\sv.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\sw.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\ta.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\te.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\th.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\tr.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\uk.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\vi.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\zh-CN.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\zh-TW.pak
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\natives_blob.bin
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\README.txt
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\snapshot_blob.bin
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\swiftshader\libEGL.dll
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\swiftshader\libGLESv2.dll
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\v8_context_snapshot.bin
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\CefSharp.BrowserSubprocess.Core.dll
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\CefSharp.BrowserSubprocess.Core.pdb
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\CefSharp.BrowserSubprocess.exe
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\CefSharp.BrowserSubprocess.pdb
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\CefSharp.Core.pdb
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\CefSharp.pdb
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\CefSharp.WinForms.pdb
+F:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\obj\x86\Debug\LOAR.Bot.Resource_GUI.resources
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\AutoItX3.dll
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\AutoItX3_x64.dll
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\cef.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\cef_100_percent.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\cef_200_percent.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\cef_extensions.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\chrome_elf.dll
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\d3dcompiler_47.dll
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\devtools_resources.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\icudtl.dat
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\libcef.dll
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\libEGL.dll
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\libGLESv2.dll
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\am.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\ar.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\bg.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\bn.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\ca.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\cs.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\da.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\de.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\el.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\en-GB.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\en-US.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\es-419.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\es.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\et.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\fa.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\fi.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\fil.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\fr.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\gu.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\he.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\hi.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\hr.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\hu.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\id.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\it.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\ja.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\kn.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\ko.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\lt.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\lv.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\ml.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\mr.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\ms.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\nb.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\nl.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\pl.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\pt-BR.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\pt-PT.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\ro.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\ru.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\sk.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\sl.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\sr.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\sv.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\sw.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\ta.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\te.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\th.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\tr.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\uk.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\vi.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\zh-CN.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\locales\zh-TW.pak
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\natives_blob.bin
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\README.txt
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\snapshot_blob.bin
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\swiftshader\libEGL.dll
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\swiftshader\libGLESv2.dll
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\v8_context_snapshot.bin
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\CefSharp.BrowserSubprocess.Core.dll
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\CefSharp.BrowserSubprocess.Core.pdb
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\CefSharp.BrowserSubprocess.exe
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\CefSharp.BrowserSubprocess.pdb
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\CefSharp.Core.dll
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\CefSharp.Core.pdb
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\CefSharp.Core.xml
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\CefSharp.dll
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\CefSharp.pdb
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\CefSharp.XML
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\CefSharp.WinForms.dll
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\CefSharp.WinForms.pdb
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\CefSharp.WinForms.XML
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\LOAR.Bot.exe.config
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\LOAR.Bot.exe
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\LOAR.Bot.pdb
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\AutoItX3.Assembly.dll
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\bin\x86\Debug\AutoItX3.Assembly.xml
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\obj\x86\Debug\LOAR.Bot.csprojAssemblyReference.cache
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\obj\x86\Debug\LOAR.Bot.Browser.resources
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\obj\x86\Debug\LOAR.Bot.Main_GUI.resources
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\obj\x86\Debug\LOAR.Bot.Properties.Resources.resources
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\obj\x86\Debug\LOAR.Bot.Resource_GUI.resources
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\obj\x86\Debug\LOAR.Bot.csproj.GenerateResource.cache
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\obj\x86\Debug\LOAR.Bot.csproj.CoreCompileInputs.cache
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\obj\x86\Debug\LOAR.Bot.csproj.CopyComplete
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\obj\x86\Debug\LOAR.Bot.exe
+H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\obj\x86\Debug\LOAR.Bot.pdb
