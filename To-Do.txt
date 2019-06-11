@@ -1,0 +1,8 @@
+Take screen shot of opened web page
+So I will not use the other slow func 
+And I won't need another UI (Client) 
+https://stackoverflow.com/questions/28222923/obtain-full-page-screenshot-from-webbrower-component
+
+=======
+use GeckoFX instead of CEF
+https://www.technical-recipes.com/2016/using-the-gecko-web-browser-in-a-c-winforms-project/
