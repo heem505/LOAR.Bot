@@ -6,3 +6,11 @@ https://stackoverflow.com/questions/28222923/obtain-full-page-screenshot-from-we
 =======
 use GeckoFX instead of CEF
 https://www.technical-recipes.com/2016/using-the-gecko-web-browser-in-a-c-winforms-project/
+©©©©©©©©©©©©©
+Convert my software to a website 👇 
+%%%%%%%%%
+Capture image :
+https://stackoverflow.com/questions/41254805/how-to-generate-screenshot-of-html-div-with-external-images
+
+Make mouse click on element :
+https://stackoverflow.com/questions/6157929/how-to-simulate-a-mouse-click-using-javascript
