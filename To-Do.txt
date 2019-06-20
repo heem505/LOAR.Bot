@@ -12,5 +12,9 @@ Convert my software to a website 👇
 Capture image :
 https://stackoverflow.com/questions/41254805/how-to-generate-screenshot-of-html-div-with-external-images
 
+https://jsfiddle.net/ourcodeworld/85gtpcto/1/?utm_source=website&utm_medium=embed&utm_campaign=85gtpcto
+
+
+
 Make mouse click on element :
 https://stackoverflow.com/questions/6157929/how-to-simulate-a-mouse-click-using-javascript
