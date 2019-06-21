@@ -18,3 +18,7 @@ https://jsfiddle.net/ourcodeworld/85gtpcto/1/?utm_source=website&utm_medium=embe
 
 Make mouse click on element :
 https://stackoverflow.com/questions/6157929/how-to-simulate-a-mouse-click-using-javascript
+
+
+Get iframe element :
+https://www.w3schools.com/howto/howto_js_element_iframe.asp
