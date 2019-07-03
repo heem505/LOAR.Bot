@@ -395,3 +395,24 @@ H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\obj\x86\Debug\LOAR.Bot.csproj.Cor
 H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\obj\x86\Debug\LOAR.Bot.csproj.CopyComplete
 H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\obj\x86\Debug\LOAR.Bot.exe
 H:\Coding\C#-Sharp Studio\LOAR.Bot VS\LOAR.Bot\obj\x86\Debug\LOAR.Bot.pdb
+I:\Coding\GitHubDesktopPortable\Data\GitHub\LOAR.Bot\LOAR.Bot\bin\x86\Debug\AutoItX3.dll
+I:\Coding\GitHubDesktopPortable\Data\GitHub\LOAR.Bot\LOAR.Bot\bin\x86\Debug\AutoItX3_x64.dll
+I:\Coding\GitHubDesktopPortable\Data\GitHub\LOAR.Bot\LOAR.Bot\bin\x86\Debug\LOAR.Bot.exe.config
+I:\Coding\GitHubDesktopPortable\Data\GitHub\LOAR.Bot\LOAR.Bot\bin\x86\Debug\LOAR.Bot.exe
+I:\Coding\GitHubDesktopPortable\Data\GitHub\LOAR.Bot\LOAR.Bot\bin\x86\Debug\LOAR.Bot.pdb
+I:\Coding\GitHubDesktopPortable\Data\GitHub\LOAR.Bot\LOAR.Bot\bin\x86\Debug\AutoItX3.Assembly.dll
+I:\Coding\GitHubDesktopPortable\Data\GitHub\LOAR.Bot\LOAR.Bot\bin\x86\Debug\AutoItX3.Assembly.xml
+I:\Coding\GitHubDesktopPortable\Data\GitHub\LOAR.Bot\LOAR.Bot\obj\x86\Debug\LOAR.Bot.csprojAssemblyReference.cache
+I:\Coding\GitHubDesktopPortable\Data\GitHub\LOAR.Bot\LOAR.Bot\obj\x86\Debug\LOAR.Bot.Browser.resources
+I:\Coding\GitHubDesktopPortable\Data\GitHub\LOAR.Bot\LOAR.Bot\obj\x86\Debug\LOAR.Bot.Main_GUI.resources
+I:\Coding\GitHubDesktopPortable\Data\GitHub\LOAR.Bot\LOAR.Bot\obj\x86\Debug\LOAR.Bot.Properties.Resources.resources
+I:\Coding\GitHubDesktopPortable\Data\GitHub\LOAR.Bot\LOAR.Bot\obj\x86\Debug\LOAR.Bot.Resource_GUI.resources
+I:\Coding\GitHubDesktopPortable\Data\GitHub\LOAR.Bot\LOAR.Bot\obj\x86\Debug\LOAR.Bot.csproj.GenerateResource.cache
+I:\Coding\GitHubDesktopPortable\Data\GitHub\LOAR.Bot\LOAR.Bot\obj\x86\Debug\LOAR.Bot.csproj.CoreCompileInputs.cache
+I:\Coding\GitHubDesktopPortable\Data\GitHub\LOAR.Bot\LOAR.Bot\obj\x86\Debug\LOAR.Bot.csproj.CopyComplete
+I:\Coding\GitHubDesktopPortable\Data\GitHub\LOAR.Bot\LOAR.Bot\obj\x86\Debug\LOAR.Bot.exe
+I:\Coding\GitHubDesktopPortable\Data\GitHub\LOAR.Bot\LOAR.Bot\obj\x86\Debug\LOAR.Bot.pdb
+I:\Coding\GitHubDesktopPortable\Data\GitHub\LOAR.Bot\LOAR.Bot\bin\x86\Debug\geckofx-core.dll
+I:\Coding\GitHubDesktopPortable\Data\GitHub\LOAR.Bot\LOAR.Bot\bin\x86\Debug\geckofx-winforms.dll
+I:\Coding\GitHubDesktopPortable\Data\GitHub\LOAR.Bot\LOAR.Bot\bin\x86\Debug\geckofx-core.pdb
+I:\Coding\GitHubDesktopPortable\Data\GitHub\LOAR.Bot\LOAR.Bot\bin\x86\Debug\geckofx-winforms.pdb

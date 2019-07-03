@@ -18,9 +18,9 @@ namespace LOAR.Bot
 {
     class Func
     {
-        public static string Main_Window = "Calculator";
-        public static string Main_Window_Class = "[Class:WindowsForms10.Window.8.app.0.378734a]";
-        public static string Main_Control = "[CLASS:Button; INSTANCE:5]";
+        public static string Main_Window = "Browser_Random_3425";
+        public static string Main_Window_Class = "Browser_Random_3425";
+        public static string Main_Control = "[CLASS:GeckoFPSandboxChildWindow; INSTANCE:1]";
 
         [DllImport("user32.dll", SetLastError = true)]
         public static extern IntPtr FindWindow(string lpClassName, string lpWindowName);

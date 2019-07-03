@@ -10,13 +10,11 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Runtime.InteropServices;
-using CefSharp;
-using CefSharp.WinForms;
-using CefSharp.WinForms.Internals;
 using AutoIt;
 using System.Diagnostics;
 using System.Drawing.Imaging;
 
+using Gecko;
 
 
 namespace LOAR.Bot
@@ -24,7 +22,7 @@ namespace LOAR.Bot
     public partial class Main_GUI : Form
     {
 
-        public ChromiumWebBrowser Browser;
+        public static GeckoWebBrowser browser = new GeckoWebBrowser();
 
         // [UDF(Move Window By a Control)]
         public const int WM_NCLBUTTONDOWN = 0xA1;
@@ -56,119 +54,123 @@ namespace LOAR.Bot
 
             InitializeComponent();
 
-            /*
-            Form1 test = new Form1();
-            test.Show();
-            */
-            //sart_Browser();
-            //Test_Browser();
-
-            Scan_Browser();
-
-
-        }
-
-        private void Test_Browser()
-        {
-            //in Form 1
-            this.Hide();
             this.WindowState = FormWindowState.Minimized;
-            this.Location = new Point(-1000, -1000);
-            Browser Browser_Form = new Browser();
-            Browser_Form.StartPosition = FormStartPosition.CenterScreen;
-            Browser_Form.Show();
+            Start_Browser();
+            Login();
+            
 
 
-            CefSettings settings = new CefSettings();
-            // Initialize cef with the provided settings
-            Cef.Initialize(settings);
-            // Create a browser component
-            string URL = "https://loar.oasgames.com/login";
-            Browser = new ChromiumWebBrowser(URL);
-
-            foreach (Control c in Browser_Form.Controls)
-                if (c.Name == "Pan_Browser")
-                {
-                    c.Controls.Add(Browser);
-                    Browser.Dock = DockStyle.Fill;
-                }
         }
-
+        
         private void Start_Browser()
         {
             //in Form 1
             Browser Browser_Form = new Browser();
-            Browser_Form.Show();
-
-
-            CefSettings settings = new CefSettings();
-            // Initialize cef with the provided settings
-            Cef.Initialize(settings);
-            // Create a browser component
             string URL = "about:blank";
-            Browser = new ChromiumWebBrowser(URL);
-
+ 
+            Xpcom.Initialize("Firefox");
+            browser.Navigate(URL);
             foreach (Control c in Browser_Form.Controls)
                 if (c.Name == "Pan_Browser")
                 {
-                    c.Controls.Add(Browser);
-                    Browser.Dock = DockStyle.Fill;
+                    c.Controls.Add(browser);
+                    browser.Dock = DockStyle.Fill;
+       
+
                 }
+            Browser_Form.Show();
+
+            Browser_Form.Location = new Point(0, 0);
 
         }
-
-
-        /*
-        private void Login() //Here
+        
+        private void Login()
         {
+            /*
             string Email = Inp_Email.Text;
             string Password = Inp_Password.Text;
             string Server_ID = Inp_Server_ID.Text;
+            */
+
+            string Email = "ibrahemesam2001@gmail.com";
+            string Password = "legend@onliner";
+            string Server_ID = "273";
 
             string Server_URL = "https://loar.oasgames.com/login?server_id=" + Server_ID;
-
+            browser.Navigate(Server_URL);
             Progress_Login.Value = 10;
-            Browser.FrameLoadEnd += Wait_Page_Load;
-            //##here >>do wait until Browser load
+            browser.DocumentCompleted += Browser_DocumentCompleted;
+
+        browser_wait_load_1:
+
+            Page_Loaded = false;
+            Application.DoEvents();
+            if (Page_Loaded != true) { goto browser_wait_load_1; }
+            Page_Loaded = false;
+
             Progress_Login.Value = 40;
-            Browser.ExecuteScriptAsync("document.getElementById('user_email').value= " + Email);
-            Browser.ExecuteScriptAsync("document.getElementById('user_password').value= " + Password);
-            Browser.EvaluateScriptAsync("document.getElementsByClassName('login_btn')[0].click()");
+
+            browser.Document.GetElementById("user_email").SetAttribute("value", Email);
+            browser.Document.GetElementById("user_password").SetAttribute("value", Password);
+            Gecko.GeckoHtmlElement btn_login = (Gecko.GeckoHtmlElement)browser.DomDocument.GetElementsByClassName("login_btn")[0];
+            btn_login.Click();
+
             Progress_Login.Value = 50;
-            //##here >>do wait until Browser load
+
+        browser_wait_load_2:
+
+            Page_Loaded = false;
+            Application.DoEvents();
+            if (Page_Loaded != true) { goto browser_wait_load_2; }
+            Page_Loaded = false;
+
+            Gecko.GeckoHtmlElement home_playFrame = (Gecko.GeckoHtmlElement)browser.DomDocument.GetElementById("home_playFrame");
+            var src = home_playFrame.GetAttribute("src");
+            browser.Navigate(src);
+
+        browser_wait_load_3:
+
+            Page_Loaded = false;
+            Application.DoEvents();
+            if (Page_Loaded != true) { goto browser_wait_load_3; }
+            Page_Loaded = false;
+
+            browser.Document.Body.Style.CssText = "overflow: hidden ! important;";
+
             Progress_Login.Value = 100;
-
+            
         }
-        */
-
-        /*
-        private void Wait_Page_Load(object sender, FrameLoadEndEventArgs args)
+        
+        private void Browser_DocumentCompleted(object sender, EventArgs args)
         {
-            if (args.Frame.IsMain)
-            {
-                // Shows an alert after page is loaded so it definitely works
-                args
-                    .Browser
-                    .MainFrame
-                    .ExecuteJavaScriptAsync(""); //alert('HELLO!')
 
                 Page_Loaded = true;
 
-                
-                //args
-                  //  .Browser
-                    //.MainFrame
-                    //.ExecuteJavaScriptAsync(
-                    //"document.body.style.overflow = 'hidden'");
-                
-            }
         }
-        */
-
-        private void Main_GUI_FormClosing(object sender, FormClosingEventArgs e)
+        
+        private void Test_Click(object sender, EventArgs e)
         {
-            //Cef.Shutdown();
+            /*
+            Stopwatch i = new Stopwatch();
+            i.Start();
+            //Point U = Func._Image_Search_EX("F:/Coding/C#-Sharp Studio/New Bitmap Image.bmp", "Calculator", 20);
+            var ii = Func._Click("F:/Coding/C#-Sharp Studio/New Bitmap Image.bmp",0);
+            i.Stop();
+            MessageBox.Show(i.ElapsedMilliseconds.ToString() + "   " + ii.ToString());
+            */
+
+
+
         }
+
+        private void Timer_Browser_View_Tick(object sender, EventArgs e)
+        {
+            IntPtr Hwnd = AutoItX.WinGetHandle("Browser_Random_3425");
+            Bitmap Browser_Image = Func.Capture_Window(Hwnd);
+            this.Pan_Browser_View.BackgroundImage = Browser_Image;
+        }
+
+        #region GUI_Events
 
         // [UDF(Move Window By a Control)]
         private void Pan_Title_MouseDown(object sender, MouseEventArgs e)
@@ -211,39 +213,24 @@ namespace LOAR.Bot
 
         private void Btn_Password_Show_Hide_Click(object sender, EventArgs e)
         {
-                if(Inp_Password.PasswordChar == '$')
-                {
-                    Inp_Password.PasswordChar = '\0';
-                    //this.Btn_Password_Show_Hide.BackgroundImage = global::LOAR.Bot.Resource_GUI.See_Password;
-                    this.Btn_Password_Show_Hide.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-                }
-                else
-                {
-                    Inp_Password.PasswordChar = '$';
-                    //this.Btn_Password_Show_Hide.BackgroundImage = global::LOAR.Bot.Resource_GUI.Hide_Password;
-                    this.Btn_Password_Show_Hide.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-                }
- 
+            if (Inp_Password.PasswordChar == '$')
+            {
+                Inp_Password.PasswordChar = '\0';
+                this.Btn_Password_Show_Hide.BackgroundImage = global::LOAR.Bot.Resource_GUI.See_Password;
+                this.Btn_Password_Show_Hide.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            }
+            else
+            {
+                Inp_Password.PasswordChar = '$';
+                this.Btn_Password_Show_Hide.BackgroundImage = global::LOAR.Bot.Resource_GUI.Hide_Password;
+                this.Btn_Password_Show_Hide.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            }
+
         }
 
         private void Btn_Login_Click(object sender, EventArgs e)
         {
-            //Login();
-
-        }
-
-        private void Test_Click(object sender, EventArgs e)
-        {
-            /*
-            Stopwatch i = new Stopwatch();
-            i.Start();
-            //Point U = Func._Image_Search_EX("F:/Coding/C#-Sharp Studio/New Bitmap Image.bmp", "Calculator", 20);
-            var ii = Func._Click("F:/Coding/C#-Sharp Studio/New Bitmap Image.bmp",0);
-            i.Stop();
-            MessageBox.Show(i.ElapsedMilliseconds.ToString() + "   " + ii.ToString());
-            */
-
-
+            Login();
 
         }
 
@@ -255,16 +242,6 @@ namespace LOAR.Bot
                 SendMessage(Handle, WM_NCLBUTTONDOWN, HT_CAPTION, 0);
             }
         }
-
-        private void Timer_Browser_View_Tick(object sender, EventArgs e)
-        {
-            IntPtr Hwnd = AutoItX.WinGetHandle("[Class:WindowsForms10.Window.8.app.0.378734a]");
-            Bitmap Browser_Image = Func.Capture_Window(Hwnd);
-            this.Pan_Browser_View.BackgroundImage = Browser_Image;
-        }
-
-
-        #region GUI_Events
 
         private void Browser_Tab_Enter(object sender, EventArgs e)
         {
@@ -352,7 +329,6 @@ namespace LOAR.Bot
 
         #endregion GUI_Events
 
-
         private void button18_Click(object sender, EventArgs e)
         {
             Stopwatch i = new Stopwatch();
@@ -376,7 +352,9 @@ namespace LOAR.Bot
             AutoItX.ControlMove(Main_Window_Class, "", "[CLASS:NativeWindowClass; INSTANCE:1]", 0, 0);
             AutoItX.WinMove(Main_Window_Class, "", 0, 0, 1016, 670);
         }
-    }
+
+
+}
 
 
 

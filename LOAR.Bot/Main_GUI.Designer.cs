@@ -113,7 +113,6 @@
             this.button14 = new System.Windows.Forms.Button();
             this.listBox1 = new System.Windows.Forms.ListBox();
             this.tabPage3 = new System.Windows.Forms.TabPage();
-            this.button18 = new System.Windows.Forms.Button();
             this.Panel_Frame.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.Pic_Title)).BeginInit();
             this.panel2.SuspendLayout();
@@ -144,7 +143,7 @@
             // 
             // Timer_Browser_View
             // 
-            this.Timer_Browser_View.Interval = 500;
+            this.Timer_Browser_View.Interval = 800;
             this.Timer_Browser_View.Tick += new System.EventHandler(this.Timer_Browser_View_Tick);
             // 
             // Panel_Frame
@@ -236,7 +235,6 @@
             // Main_Tab
             // 
             this.Main_Tab.BackColor = System.Drawing.Color.Black;
-            this.Main_Tab.Controls.Add(this.button18);
             this.Main_Tab.Controls.Add(this.toleranceTrackBar);
             this.Main_Tab.Controls.Add(this.Test);
             this.Main_Tab.Controls.Add(this.label6);
@@ -1139,19 +1137,6 @@
             this.tabPage3.Text = "باليز";
             this.tabPage3.UseVisualStyleBackColor = true;
             // 
-            // button18
-            // 
-            this.button18.BackColor = System.Drawing.Color.ForestGreen;
-            this.button18.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold);
-            this.button18.ForeColor = System.Drawing.Color.White;
-            this.button18.Location = new System.Drawing.Point(384, 307);
-            this.button18.Name = "button18";
-            this.button18.Size = new System.Drawing.Size(240, 34);
-            this.button18.TabIndex = 24;
-            this.button18.Text = "Test = make browser a popup";
-            this.button18.UseVisualStyleBackColor = false;
-            this.button18.Click += new System.EventHandler(this.button18_Click);
-            // 
             // Main_GUI
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -1161,9 +1146,9 @@
             this.Controls.Add(this.Panel_Frame);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Main_GUI";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "LOAR.Bot";
             this.TransparencyKey = System.Drawing.Color.Indigo;
-            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Main_GUI_FormClosing);
             this.Panel_Frame.ResumeLayout(false);
             this.Panel_Frame.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.Pic_Title)).EndInit();
@@ -1284,6 +1269,5 @@
         private System.Windows.Forms.CheckBox checkBox1;
         private System.Windows.Forms.TextBox textBox11;
         private System.Windows.Forms.Button button14;
-        private System.Windows.Forms.Button button18;
     }
 }
